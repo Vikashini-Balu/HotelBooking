@@ -1,0 +1,17 @@
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\bin\Debug\net6.0\Project.BookingHotel.Service.deps.json
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\bin\Debug\net6.0\Project.BookingHotel.Service.runtimeconfig.json
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\bin\Debug\net6.0\Project.BookingHotel.Service.dll
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\bin\Debug\net6.0\Project.BookingHotel.Service.pdb
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.csproj.AssemblyReference.cache
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.AssemblyInfoInputs.cache
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.AssemblyInfo.cs
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.csproj.CoreCompileInputs.cache
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.dll
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\refint\Project.BookingHotel.Service.dll
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.pdb
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.genruntimeconfig.cache
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\ref\Project.BookingHotel.Service.dll
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\bin\Debug\net6.0\Project.BookingHotel.Repository.dll
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\bin\Debug\net6.0\Project.BookingHotel.Repository.pdb
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Service\obj\Debug\net6.0\Project.BookingHotel.Service.csproj.CopyComplete

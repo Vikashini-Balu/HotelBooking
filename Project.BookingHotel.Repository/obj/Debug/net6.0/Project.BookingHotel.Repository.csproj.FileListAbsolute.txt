@@ -1,0 +1,14 @@
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\bin\Debug\net6.0\Project.BookingHotel.Repository.deps.json
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\bin\Debug\net6.0\Project.BookingHotel.Repository.runtimeconfig.json
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\bin\Debug\net6.0\Project.BookingHotel.Repository.dll
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\bin\Debug\net6.0\Project.BookingHotel.Repository.pdb
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\Project.BookingHotel.Repository.csproj.AssemblyReference.cache
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\Project.BookingHotel.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\Project.BookingHotel.Repository.AssemblyInfoInputs.cache
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\Project.BookingHotel.Repository.AssemblyInfo.cs
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\Project.BookingHotel.Repository.csproj.CoreCompileInputs.cache
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\Project.BookingHotel.Repository.dll
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\refint\Project.BookingHotel.Repository.dll
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\Project.BookingHotel.Repository.pdb
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\Project.BookingHotel.Repository.genruntimeconfig.cache
+D:\Dummy\Project.BookingHotel\Project.BookingHotel.Repository\obj\Debug\net6.0\ref\Project.BookingHotel.Repository.dll
